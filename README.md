@@ -1,4 +1,4 @@
-# Sentiment Analysis
+# Sentimental Analysis
 
 I have built a model which will predict the sentiment of movie reviews. I used Naive-Bayes, SVM, and RNN+LSTM based model to obtain really good result.
 
