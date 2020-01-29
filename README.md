@@ -37,3 +37,6 @@ You can untar the data.tar.gz and model.tar.gz by using following command.
 $ sudo tar -xvzf Path and Name of tar.gz file [./community_images.tar.gz]
 
 ```
+
+Output:
+![sentimaent analysis output](https://user-images.githubusercontent.com/22231946/73340843-78ad1b80-42a1-11ea-854c-5aef7c3fd86d.PNG)
